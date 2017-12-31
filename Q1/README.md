@@ -2,7 +2,7 @@
 
 The Polynomial class can be used to generate any degree Polynomial equation of the form:
 
-## Axn +Bxn-1 … + Cx + D
+## Ax<sup>n</sup> +Bx<sup>n-1</sup> … + Cx + D
 
 Eg: 	2x + 1 or <br/>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3x<sup>3</sup> - 4x or <br/>
